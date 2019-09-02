@@ -1,1 +1,1 @@
-Woed search program
+Word search program
